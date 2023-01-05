@@ -1,0 +1,8 @@
+version: '3.4'
+
+services:
+  rabbit.consumer:
+    image: ${DOCKER_REGISTRY-}rabbitconsumer
+    build:
+      context: .
+      dockerfile: Dockerfile

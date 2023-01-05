@@ -1,0 +1,21 @@
+name: dockercompose6030419179711933742
+services:
+  rabbit.consumer:
+    build:
+      context: C:\Adriano\Projetos\CRM\CRM.MQ.Consumer
+      dockerfile: Dockerfile
+    environment:
+      DOTNET_ENVIRONMENT: Development
+    image: rabbitconsumer
+    networks:
+      default: null
+    volumes:
+    - type: bind
+      source: C:\Users\adria\AppData\Roaming/Microsoft/UserSecrets
+      target: /root/.microsoft/usersecrets
+      read_only: true
+      bind:
+        create_host_path: true
+networks:
+  default:
+    name: dockercompose6030419179711933742_default
