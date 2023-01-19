@@ -45,3 +45,10 @@ C:\Adriano\Projetos\CRM\CRM.MQ.Consumer\obj\Debug\net6.0\refint\CRM.MQ.Consumer.
 C:\Adriano\Projetos\CRM\CRM.MQ.Consumer\obj\Debug\net6.0\CRM.MQ.Consumer.pdb
 C:\Adriano\Projetos\CRM\CRM.MQ.Consumer\obj\Debug\net6.0\CRM.MQ.Consumer.genruntimeconfig.cache
 C:\Adriano\Projetos\CRM\CRM.MQ.Consumer\obj\Debug\net6.0\ref\CRM.MQ.Consumer.dll
+C:\Adriano\Projetos\CRM\CRM.MQ.Consumer\bin\Debug\net6.0\System.Data.SqlClient.dll
+C:\Adriano\Projetos\CRM\CRM.MQ.Consumer\bin\Debug\net6.0\runtimes\win-arm64\native\sni.dll
+C:\Adriano\Projetos\CRM\CRM.MQ.Consumer\bin\Debug\net6.0\runtimes\win-x64\native\sni.dll
+C:\Adriano\Projetos\CRM\CRM.MQ.Consumer\bin\Debug\net6.0\runtimes\win-x86\native\sni.dll
+C:\Adriano\Projetos\CRM\CRM.MQ.Consumer\bin\Debug\net6.0\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Adriano\Projetos\CRM\CRM.MQ.Consumer\bin\Debug\net6.0\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Adriano\Projetos\CRM\CRM.MQ.Consumer\bin\Debug\net6.0\Newtonsoft.Json.dll

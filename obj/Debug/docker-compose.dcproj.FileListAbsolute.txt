@@ -72,3 +72,4 @@ C:\Adriano\Projetos\CRM\CRM.MQ.Consumer\bin\Debug\CRM.MQ.Consumer.pdb
 C:\Adriano\Projetos\CRM\CRM.MQ.Consumer\obj\Debug\docker-compose.dcproj.AssemblyReference.cache
 C:\Adriano\Projetos\CRM\CRM.MQ.Consumer\obj\Debug\docker-compose.dcproj.CoreCompileInputs.cache
 C:\Adriano\Projetos\CRM\CRM.MQ.Consumer\obj\Debug\docker-compose.dcproj.CopyComplete
+C:\Adriano\Projetos\CRM\CRM.MQ.Consumer\bin\Debug\System.Data.SqlClient.dll
